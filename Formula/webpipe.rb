@@ -4,7 +4,7 @@
 class Webpipe < Formula
   desc 'Pipeline-based web API runtime'
   homepage 'https://github.com/williamcotton/webpipe'
-  url 'https://github.com/williamcotton/webpipe.git', tag: 'v2.0.82'
+  url 'https://github.com/williamcotton/webpipe.git', tag: 'v2.0.87'
   license 'MIT'
   head 'https://github.com/williamcotton/webpipe.git', branch: 'main'
 
